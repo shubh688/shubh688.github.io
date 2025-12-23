@@ -30,7 +30,7 @@ profiles:
     url: https://www.linkedin.com/in/shubh688/
   -
     network: Twitter
-    username: ianli
+    username: shubh688
     url: https://twitter.com/shubh688/
   -
     
@@ -38,9 +38,8 @@ profiles:
 intro:
   title: Hello!
   body: >
-    I am a PhD student in the [mathematics department](https://www.math.uwo.ca/) at the University of Western Ontario.
-    I am working with my doctoral advisor [Dr. Hristo Sendov](https://www.uwo.ca/stats/people/bios/hristo-sendov.html)
-    in non-smooth optimization and geometry of polynomials. 
+    I received my PhD in Mathematics from the [Mathematics Department](https://www.math.uwo.ca/) at the University of Western Ontario under the supervision of [Dr. Hristo Sendov](https://www.uwo.ca/stats/people/bios/hristo-sendov.html) in non-smooth optimization and geometry of polynomials. 
     My interests lie in convex geometry, topology, computational geometry and the geometry of polynomials.
     My current research pertains to polar convexity and how it intertwines with the analytic theory of multivariate polynomials. 
+    I am currently on the job market looking for research positions.
    
